@@ -25,7 +25,7 @@ nav {
       justify-content: space-around;
   position: fixed;
   width: 100%;
-  background: #03000e;
+  background: var(--nav-bg);
   -webkit-box-shadow: var(--nav-shadow);
           box-shadow: var(--nav-shadow);
 }
